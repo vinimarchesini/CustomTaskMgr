@@ -1,0 +1,8 @@
+C:\Users\vinicius.oliveira\OneDrive\Programação\Projects\BootTaskmgr\BootTaskmgr\bin\Release\BootTaskmgr.exe.config
+C:\Users\vinicius.oliveira\OneDrive\Programação\Projects\BootTaskmgr\BootTaskmgr\bin\Release\BootTaskmgr.exe
+C:\Users\vinicius.oliveira\OneDrive\Programação\Projects\BootTaskmgr\BootTaskmgr\bin\Release\BootTaskmgr.pdb
+C:\Users\vinicius.oliveira\OneDrive\Programação\Projects\BootTaskmgr\BootTaskmgr\obj\Release\BootTaskmgr.Form1.resources
+C:\Users\vinicius.oliveira\OneDrive\Programação\Projects\BootTaskmgr\BootTaskmgr\obj\Release\BootTaskmgr.Properties.Resources.resources
+C:\Users\vinicius.oliveira\OneDrive\Programação\Projects\BootTaskmgr\BootTaskmgr\obj\Release\BootTaskmgr.csproj.GenerateResource.Cache
+C:\Users\vinicius.oliveira\OneDrive\Programação\Projects\BootTaskmgr\BootTaskmgr\obj\Release\BootTaskmgr.exe
+C:\Users\vinicius.oliveira\OneDrive\Programação\Projects\BootTaskmgr\BootTaskmgr\obj\Release\BootTaskmgr.pdb
